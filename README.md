@@ -1,32 +1,60 @@
 Hi, I'm Bhavna 👋
 
 IT Graduate | Aspiring Cloud & DevOps Enthusiast
-I have completed Linux administration and networking fundamentals (CCNA basics). Currently, I’m focused on learning AWS cloud services to build real-world cloud and DevOps projects.
+
+I have completed Linux administration and networking fundamentals (CCNA basics).
+Currently, I’m building real-world cloud skills using AWS and Azure through hands-on projects.
 
 🧠 Skills
 
-🐧 Linux -File system management -User & permission handling -Basic shell commands
+🐧 Linux
 
-🌐 Networking -CCNA fundamentals -IP addressing & subnetting -Routing & switching basics -Network troubleshooting concepts
+File system management
+
+User & permission handling
+
+Basic shell commands
+
+🌐 Networking
+
+CCNA fundamentals
+
+IP addressing & subnetting
+
+Routing & switching
+
+Network troubleshooting
+
+☁️ Cloud
+
+AWS: EC2, S3, Lambda
+
+Azure: Virtual Machines, VNet, Storage Accounts
 
 🌱 Currently Learning
 
-AWS Cloud (S3, EC2, Lambda)
-Linux basics and administration
-Networking fundamentals (CCNA)
+Azure (Networking, Entra ID, monitoring)
 
-🔭 Hands-on Practice / Mini Labs
+Azure VNet Architecture (public & private subnet setup)
+
+
+🛠 Hands-on Practice
 
 Working with AWS services through personal labs
-Practicing Linux commands and file management
+
+Creating Azure VMs and networking setups
+
+Practicing Linux commands
+
 Networking simulations using Packet Tracer
 
 📫 Connect with Me
-LinkedIn: https://www.linkedin.com/in/bhavna-lokhande-3538343a2
-Email: lokhandebhavna30@gmail.com
-.
 
-Learning, observing, and building — one step at a time. Inspired by Leonardo da Vinci.
+LinkedIn: https://www.linkedin.com/in/bhavna-lokhande-3538343a2
+
+Email: lokhandebhavna30@gmail.com
+
+✨ Learning, building, and improving — one step at a time.
 <!--
 **bhavna-cloud745/bhavna-cloud745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
